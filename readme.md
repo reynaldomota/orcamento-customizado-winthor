@@ -8,7 +8,7 @@ O orçamento gerado pelo Winthor através da rotina de vendas **316 - Digitar Pe
 
 ### 💻 Pré-requisitos
 
-Para configuarar a parte inferior do orçamento é necessário preencher os dados da rotina **528 - Cadastrar Funcionar/Setor** 
+Para configuarar a parte inferior do orçamento é necessário preencher os dados da rotina **528 - Cadastrar Funcionario/Setor** 
 
 ![Cadastroar Assinatura](img/conf-assinaturas.png)
 
@@ -16,7 +16,7 @@ Para configuarar a parte inferior do orçamento é necessário preencher os dado
 <br><br>
 
 #### Adicionar a logo marca ao Orçamento
-A logo marca da empresa deve ser adiciona na rotina **535 - Cadastrar Filiais**
+A logo marca da empresa deve ser adicionada na rotina **535 - Cadastrar Filiais**
 
 ![Logo marca da empresa](img/cadastro-filial.jpg)
 
